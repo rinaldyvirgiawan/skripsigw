@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="980" startPos="892" endPos="892" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Kependudukan\application\controllers\Home.php" backupFilePath="" originalFileLastModifTimestamp="1493183178" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1386" startPos="294" endPos="294" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Kependudukan\application\views\halaman_awal.php" backupFilePath="" originalFileLastModifTimestamp="1493183214" />
+            <File firstVisibleLine="41" xOffset="0" scrollWidth="1386" startPos="3971" endPos="3971" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Kependudukan\application\views\header.php" backupFilePath="" originalFileLastModifTimestamp="1493183199" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="553" startPos="6" endPos="6" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Kependudukan\application\views\footer.php" backupFilePath="" originalFileLastModifTimestamp="1493183212" />
+            <File firstVisibleLine="47" xOffset="489" scrollWidth="1225" startPos="1159" endPos="1159" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\Kependudukan\application\views\penduduk\kk_ktp.php" backupFilePath="" originalFileLastModifTimestamp="1493184855" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="896" startPos="961" endPos="36" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\TA2\application\views\sistem\home.php" backupFilePath="" originalFileLastModifTimestamp="1487488450" />
+            <File firstVisibleLine="465" xOffset="0" scrollWidth="1652" startPos="20440" endPos="20238" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\kp\application\views\gudang\tambahobat.php" backupFilePath="" originalFileLastModifTimestamp="1477638826" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
